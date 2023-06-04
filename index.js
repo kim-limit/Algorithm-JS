@@ -16,3 +16,8 @@ function solution(s) {
 
   return i - 1;
 }
+
+let a = {
+  a: "kime",
+};
+console.log(a.a);
